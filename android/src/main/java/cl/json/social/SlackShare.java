@@ -8,7 +8,7 @@ import com.facebook.react.bridge.ReadableMap;
 /**
  * Created by disenodosbbcl on 23-07-16.
  */
-public class WhatsAppShare extends SingleShareIntent {
+public class SlackShare extends SingleShareIntent {
 
     private static final String PACKAGE = "com.Slack";
     private static final String PLAY_STORE_LINK = "market://details?id=com.Slack";
