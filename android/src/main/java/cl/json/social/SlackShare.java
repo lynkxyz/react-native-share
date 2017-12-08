@@ -13,7 +13,7 @@ public class SlackShare extends SingleShareIntent {
     private static final String PACKAGE = "com.Slack";
     private static final String PLAY_STORE_LINK = "market://details?id=com.Slack";
 
-    public WhatsAppShare(ReactApplicationContext reactContext) {
+    public SlackShare(ReactApplicationContext reactContext) {
         super(reactContext);
     }
     @Override

@@ -13,7 +13,7 @@ public class MessengerShare extends SingleShareIntent {
     private static final String PACKAGE = "com.facebook.orca";
     private static final String PLAY_STORE_LINK = "market://details?id=com.facebook.orca";
 
-    public WhatsAppShare(ReactApplicationContext reactContext) {
+    public MessengerShare(ReactApplicationContext reactContext) {
         super(reactContext);
     }
     @Override
